@@ -5,6 +5,5 @@ setuptools.setup(
     author="Arvind Mahato",
     author_email="arvindmahato@gmail.com",
     description="Package for testing uploads [PyPI]",
-    url="https://github.com/arvindmahat/python-sample-vscode-flask-tutorial.git",
-    python_requires='>=3.8'
+    url="https://github.com/arvindmahat/python-sample-vscode-flask-tutorial.git"
 )
